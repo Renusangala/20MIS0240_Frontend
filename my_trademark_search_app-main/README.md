@@ -55,6 +55,3 @@ API Integration
 
 Contributing
   Feel free to submit issues or pull requests. Please ensure your changes adhere to the project's coding standards.
-
-Contact
-  For questions or feedback, contact shivrajchoudharywork@gmail.com.
